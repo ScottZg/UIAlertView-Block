@@ -1,4 +1,4 @@
-# UIAlertView-Block
+# UIAlertView+Block
 带有block回调的UIAlertView
 
 ####简单介绍
